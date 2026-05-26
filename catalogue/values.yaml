@@ -1,6 +1,6 @@
 deployment:
   replicas: 1
-  imageName: roboshop/catalogue
+  imageName: public.ecr.aws/roboshop/catalogue
   imageVersion: latest
 
 service:
