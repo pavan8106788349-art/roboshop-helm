@@ -1,7 +1,7 @@
 deployment:
   replicas: 1
-  imageName: public.ecr.aws/roboshop/catalogue
-  imageVersion: 1.0.0
+  imageName: schoolofdevops/catalogue
+  imageVersion: latest
 
 service:
   type: ClusterIP
