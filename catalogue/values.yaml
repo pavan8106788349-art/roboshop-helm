@@ -1,6 +1,6 @@
 deployment:
   replicas: 1
-  imageName: nginx
+  imageName: roboshop/catalogue
   imageVersion: latest
 
 service:
