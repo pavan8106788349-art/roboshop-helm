@@ -1,7 +1,7 @@
 deployment:
   replicas: 1
-  imageName: schoolofdevops/catalogue
-  imageVersion: latest
+  imageName: pavankumarsri/catalogue
+  imageVersion: 1.4.0
 
 service:
   type: ClusterIP
