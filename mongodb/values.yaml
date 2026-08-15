@@ -1,4 +1,4 @@
 deployment:
  replicas: 1
- imageName: mongo
- imageVersion: 6.0
+ imageName: "joindevops/mongodb"
+ imageVersion: "1.0.0"
